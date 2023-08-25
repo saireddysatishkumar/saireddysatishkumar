@@ -3,10 +3,10 @@ Passionate about DevOps, cloud technologies, and Kubernetes. Always striving to 
 
 - 👯 I’m looking to collaborate on ...
 
-Lets start with
+- 😄 Lets start with
 [Settingup K8S cluster in local system or cloud.](https://github.com/saireddysatishkumar/K8S)
 
-Infrastructure as Code (IaC) Hub:  
+- 😄 Infrastructure as Code (IaC) Hub:  
 [Ansible](https://github.com/saireddysatishkumar/Ansible) and [Terraform](https://github.com/saireddysatishkumar/Terraform)  
 
 <!--
