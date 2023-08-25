@@ -1,4 +1,4 @@
-👋 Hello, I'm [Saireddy Satishkumar]!
+👋 Hello, I'm Saireddy Satishkumar!  
 Passionate about DevOps, cloud technologies, and Kubernetes. Always striving to automate, optimize, and streamline development and deployment processes. Let's collaborate and innovate together!
 
 - 👯 I’m looking to collaborate on ...
