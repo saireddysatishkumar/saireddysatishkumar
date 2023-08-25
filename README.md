@@ -1,29 +1,11 @@
-### Hi there 👋
+👋 Hello, I'm [Saireddy Satishkumar]!
+Passionate about DevOps, cloud technologies, and Kubernetes. Always striving to automate, optimize, and streamline development and deployment processes. Let's collaborate and innovate together!
+
 - 👯 I’m looking to collaborate on ...
 
-
->Step1) Install minikube. [minikube installation guide](https://minikube.sigs.k8s.io/docs/start/) 
-````
-curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-amd64
-sudo install minikube-darwin-amd64 /usr/local/bin/minikube
-$ minikube start --extra-config=apiserver.service-node-port-range=1-65535 --cpus=4 --memory=6g --addons=ingress
-#set the alias:- alias kubectl="minikube kubectl --"
-$ minikube addons enable ingress
-$ minikube tunnel
-
-> Deploy sample applications
-kubectl apply -f https://storage.googleapis.com/minikube-site-examples/ingress-example.yaml  
-
->Now verify that the ingress works
-$ curl 127.0.0.1/foo
-Request served by foo-app
-...
-
-$ curl 127.0.0.1/bar
-Request served by bar-app
-...
-
-````
+Kubernetes Adventures
+[Setup K8S cluster in local system or cloud.](https://github.com/saireddysatishkumar/K8S/tree/main/Minikube)
+ 
 <!--
 **saireddysatishkumar/saireddysatishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
