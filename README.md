@@ -7,8 +7,7 @@ Lets start with
 [Settingup K8S cluster in local system or cloud.](https://github.com/saireddysatishkumar/K8S)
 
 Infrastructure as Code (IaC) Hub:  
-[Ansible](https://github.com/saireddysatishkumar/Ansible) 
-[Terraform](https://github.com/saireddysatishkumar/Terraform)
+[Ansible](https://github.com/saireddysatishkumar/Ansible) and [Terraform](https://github.com/saireddysatishkumar/Terraform)  
 
 <!--
 **saireddysatishkumar/saireddysatishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
