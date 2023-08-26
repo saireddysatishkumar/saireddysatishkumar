@@ -5,7 +5,7 @@ DevOps, cloud technologies, and Kubernetes. Always striving to automate, optimiz
 
 
 Lets start with 
-- 😄 Settingup K8S cluster in local system or cloud:
+- 😄 Settingup K8S cluster in local system or cloud:  
 [minikube setup:](https://github.com/saireddysatishkumar/K8S/tree/main/Minikube)
 
 - 😄 Infrastructure as Code (IaC) Hub:  
