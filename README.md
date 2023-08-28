@@ -11,8 +11,8 @@ Lets start with
 - 😄 Infrastructure as Code (IaC) Hub:  
 [Ansible](https://github.com/saireddysatishkumar/Ansible) and [Terraform](https://github.com/saireddysatishkumar/Terraform)  
 
-- 😄 Projects:
-📫 [001-Project](https://github.com/saireddysatishkumar/001-Project)  
+## Projects:
+📫 - [001-Project](https://github.com/saireddysatishkumar/001-Project)  
 
 
 
