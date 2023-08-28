@@ -12,8 +12,8 @@ Lets start with
 [Ansible](https://github.com/saireddysatishkumar/Ansible) and [Terraform](https://github.com/saireddysatishkumar/Terraform)  
 
 ## Projects:
-📫 - [001-Project](https://github.com/saireddysatishkumar/001-Project)  
-
+📫 - [001-Project: ToDoApp-python-jenkins-argocd-k8s](https://github.com/saireddysatishkumar/001-Project)  
+This project is to build python application(ToDo app) in Jenkins and deploy it through ArgoCD inito K8S.  
 
 
 <!--
