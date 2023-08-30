@@ -15,7 +15,7 @@ Lets start with
 📫 - [001-Project: ToDoApp-python-jenkins-argocd-k8s](https://github.com/saireddysatishkumar/001-Project)  
 This project is to build python application(ToDo app) in Jenkins and deploy it through ArgoCD inito K8S.  
 
-📫 - [002-Project Argocd blue Green rollouts](https://github.com/saireddysatishkumar/ArgoCD)  
+📫 - [002-Project Argocd blue Green rollouts in K8S](https://github.com/saireddysatishkumar/ArgoCD)  
 The blue green strategy is not supported by built-in Kubernetes Deployment but available via third-party Kubernetes controller.   
 This example demonstrates how to implement blue-green deployment via Argo Rollouts.  
 Click on 002-Project and follow instructions in the respective repo.   
