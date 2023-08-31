@@ -18,7 +18,16 @@ This project is to build python application(ToDo app) in Jenkins and deploy it t
 📫 - [002-Project Argocd blue Green rollouts in K8S](https://github.com/saireddysatishkumar/ArgoCD)  
 The blue green strategy is not supported by built-in Kubernetes Deployment but available via third-party Kubernetes controller.   
 This example demonstrates how to implement blue-green deployment via Argo Rollouts.  
-Click on 002-Project and follow instructions in the respective repo.   
+Click on 002-Project and follow instructions in the respective repo.
+   
+📫 - [003-Project Ansible Testing](https://github.com/saireddysatishkumar/Ansible)  
+Ansible testing crucial in Ansible development. Click on above link and follow section Molecule.
+
+
+🤔✨ How to reach me:
+ saireddysatishkumar@gmail.com or hotmail.com
+
+
 
 <!--
 **saireddysatishkumar/saireddysatishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
