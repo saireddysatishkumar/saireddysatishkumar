@@ -24,8 +24,6 @@ Click on 002-Project and follow instructions in the respective repo.
 Ansible testing crucial in Ansible development. Click on above link and follow section Molecule.
 
 
-🤔✨ How to reach me:
- saireddysatishkumar@gmail.com or hotmail.com
 
 
 
