@@ -1,43 +1,54 @@
-👋 Hello, I'm Saireddy Satishkumar! 
+# 👋 Hi, I'm Saireddy Satishkumar! 
+### **Sr. Cloud Architect | Azure Data & GenAI Engineer** 🚀
+**16+ Years in IT | 10+ Years in Cloud & DevOps | Specializing in AI-Driven Data Platforms**
 
-👯 I’m looking to collaborate on ...  
-DevOps, cloud technologies, and Kubernetes. Always striving to automate, optimize, and streamline development and deployment processes. Let's collaborate and innovate together!
+I am a veteran engineer currently leading initiatives at **Comcast** that bridge the gap between high-scale **DevOps/SRE** and modern **Generative AI**. I specialize in architecting "Intelligence-First" platforms, ensuring that LLM-based services are as resilient, scalable, and automated as the infrastructure they run on.
 
+---
 
-Lets start with 
-- 😄 Settingup K8S cluster in local system or cloud:  
-[Minikube setup](https://github.com/saireddysatishkumar/K8S/tree/main/Minikube)
+### 🏆 Certifications & Expertise
+![Azure AI Engineer](https://img.shields.io/badge/Microsoft-Azure_AI_Engineer_Associate-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
+![Azure Data Engineer](https://img.shields.io/badge/Microsoft-Azure_Fabric_Data_Engineer-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-Certified_Engineer-EE0000?style=flat&logo=redhat&logoColor=white)
 
-- 😄 Infrastructure as Code (IaC) Hub:  
-[Ansible](https://github.com/saireddysatishkumar/Ansible) and [Terraform](https://github.com/saireddysatishkumar/Terraform)  
+---
 
-## Projects:
-📫 - [001-Project: ToDoApp-python-jenkins-argocd-k8s](https://github.com/saireddysatishkumar/001-Project)  
-This project is to build python application(ToDo app) in Jenkins and deploy it through ArgoCD inito K8S.  
+### 💎 Featured Project: Data & AI
+#### 🚀 [NextGen Customer Insight Engine](https://github.com/saireddysatishkumar/Azure-Data-Engineer-Projects/tree/main/NextGen_Customer_Insight_Engine)
+An end-to-end AI-driven data pipeline designed for enterprise scale (Comcast context):
+*   **Medallion Architecture:** Implementing Bronze/Silver/Gold layers on ADLS Gen2.
+*   **Agentic Reasoning:** Utilizing **Azure AI Language Services** for automated sentiment analysis and risk escalation.
+*   **DataOps:** Fully variable-driven infrastructure using **Terraform** and **GitHub Actions**.
+*   **Performance:** Optimized via PySpark **Pandas UDFs** for vectorized AI API calls.
 
-📫 - [002-Project Argocd blue Green rollouts in K8S](https://github.com/saireddysatishkumar/ArgoCD)  
-The blue green strategy is not supported by built-in Kubernetes Deployment but available via third-party Kubernetes controller.   
-This example demonstrates how to implement blue-green deployment via Argo Rollouts.  
-Click on 002-Project and follow instructions in the respective repo.
-   
-📫 - [003-Project Ansible Testing](https://github.com/saireddysatishkumar/Ansible)  
-Ansible testing crucial in Ansible development. Click on above link and follow section Molecule.
+---
 
+### 🛠️ Technical Arsenal
 
+| **GenAI & Data** | **Cloud & DevOps** | **Infrastructure (IaC)** |
+| :--- | :--- | :--- |
+| Azure OpenAI / Bedrock | Kubernetes (AKS / EKS) | Terraform |
+| Databricks / PySpark | ArgoCD & GitOps | Ansible / Molecule |
+| Delta Lake / MLflow | Docker & Microservices | Concourse / Jenkins |
+| Vector Search / RAG | Azure Monitor / Datadog | Linux (RHEL / Ubuntu) |
 
+---
 
+### 📫 Notable DevOps & K8S Projects
 
-<!--
-**saireddysatishkumar/saireddysatishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   **[ToDoApp-CI/CD](https://github.com/saireddysatishkumar/001-Project):** Full GitOps flow using Python, Jenkins, and ArgoCD into Kubernetes.
+*   **[ArgoCD Blue-Green Rollouts](https://github.com/saireddysatishkumar/ArgoCD):** Advanced deployment strategies utilizing third-party controllers for zero-downtime releases.
+*   **[Ansible Testing Hub](https://github.com/saireddysatishkumar/Ansible):** Molecule-based testing framework for high-reliability infrastructure automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### 👯 I’m looking to collaborate on:
+*   **Agentic AI Workflows:** Moving beyond simple ETL to "Reasoning Pipelines."
+*   **MLOps Automation:** Scaling model serving and inference using AKS.
+*   **Data Sovereignty:** Architecting PII masking and RBAC for regulated environments.
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats & Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saireddy-s-0303b31b4/) 
