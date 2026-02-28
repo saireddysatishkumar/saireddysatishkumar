@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Saireddy Satishkumar! 
 ### **Sr. Cloud Architect | Azure Data & GenAI Engineer** 🚀
-**16+ Years in IT | 10+ Years in Cloud & DevOps | Specializing in AI-Driven Data Platforms**
+**20+ Years in IT | 10+ Years in Cloud & DevOps | Specializing in AI-Driven Data Platforms**
 
-I am a veteran engineer currently leading initiatives at **Comcast** that bridge the gap between high-scale **DevOps/SRE** and modern **Generative AI**. I specialize in architecting "Intelligence-First" platforms, ensuring that LLM-based services are as resilient, scalable, and automated as the infrastructure they run on.
+I am a veteran Cloud Architect and Senior Data Engineer with a 16-year track record of bridging the gap between robust infrastructure and intelligent data platforms. I specialize in architecting **Medallion Data Architectures** and **Agentic GenAI services**, ensuring that LLM-driven applications are as resilient, scalable, and cost-optimized as the enterprise infrastructure they inhabit.
 
 ---
 
@@ -26,12 +26,12 @@ An end-to-end AI-driven data pipeline designed for enterprise scale (Comcast con
 
 ### 🛠️ Technical Arsenal
 
-| **GenAI & Data** | **Cloud & DevOps** | **Infrastructure (IaC)** |
+| **Data Engineering & AI** | **Cloud & DevOps** | **Platform & IaC** |
 | :--- | :--- | :--- |
-| Azure OpenAI / Bedrock | Kubernetes (AKS / EKS) | Terraform |
-| Databricks / PySpark | ArgoCD & GitOps | Ansible / Molecule |
-| Delta Lake / MLflow | Docker & Microservices | Concourse / Jenkins |
-| Vector Search / RAG | Azure Monitor / Datadog | Linux (RHEL / Ubuntu) |
+| Azure OpenAI / Bedrock | Azure / AWS / **GCP** | Terraform / CloudFormation |
+| Databricks / PySpark | Kubernetes (AKS / EKS) | Ansible / **AWX** / Molecule |
+| Delta Lake / MLflow | ArgoCD & GitOps | **GitHub Actions** / Jenkins |
+| Vector Search / RAG | Docker & Microservices | Linux (RHEL / Ubuntu) |
 
 ---
 
